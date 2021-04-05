@@ -1,4 +1,12 @@
-mysql:
-  url: dev-http://localhost:3306/db6001
-lagou:
-  message: hello lagou,600
+abc:
+  config: 34566
+spring:
+  mail:
+    from: 211569430@qq.com
+    host: smtp.qq.com
+    password: cqjgucpkwinobihh
+    properties:
+      mail:
+        smtp:
+          port: 587
+    username: 517309804@qq.com
