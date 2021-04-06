@@ -2,11 +2,11 @@ abc:
   config: 34566
 spring:
   mail:
-    from: 211569430@qq.com
-    host: smtp.qq.com
-    password: cqjgucpkwinobihh
+    from: yrwemail@126.com
+    host: smtp.126.com
+    password: JFNUVWLUEOYPFIRV
     properties:
       mail:
         smtp:
           port: 587
-    username: 517309804@qq.com
+    username: yrwemail@126.com
