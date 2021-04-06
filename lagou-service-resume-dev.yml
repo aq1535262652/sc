@@ -8,5 +8,5 @@ spring:
     properties:
       mail:
         smtp:
-          port: 587
+          port: 25
     username: yrwemail@126.com
