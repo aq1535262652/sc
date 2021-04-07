@@ -2,9 +2,9 @@ abc:
   config: 34566
 spring:
   mail:
-    from: yrwemail@126.com
+    from: javaspring123@126.com
     host: smtp.126.com
-    password: JFNUVWLUEOYPFIRV
+    password: XGFFISOSVANFANFS
     properties:
       mail:
         smtp:
