@@ -9,4 +9,4 @@ spring:
       mail:
         smtp:
           port: 25
-    username: yrwemail@126.com
+    username: javaspring123@126.com
